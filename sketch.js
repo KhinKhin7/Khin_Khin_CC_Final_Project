@@ -5,7 +5,6 @@ let fairy_1;
 let fairy;
 
 
-
 function preload() {
 
     fairy_1 = loadAnimation('data/2_WALK_000.png');

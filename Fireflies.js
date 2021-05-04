@@ -6,6 +6,7 @@ class Fireflies{
 		this.y = (0,height);
 	}
 
+
 	display(){
 		noStroke();
 		frameRate(1);

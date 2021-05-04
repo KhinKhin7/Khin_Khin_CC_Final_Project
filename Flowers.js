@@ -5,10 +5,7 @@ class Flowers{
 
 
 	}
-	update(){
 
-
-	}
 
 	display(){ 
 
