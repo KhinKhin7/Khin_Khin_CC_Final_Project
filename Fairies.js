@@ -5,6 +5,7 @@ class Fairies{
 	constructor(){
 
 	}
+	
 	display(){
 
 		scale(0.5);
