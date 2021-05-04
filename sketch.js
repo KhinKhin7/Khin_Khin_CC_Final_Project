@@ -10,7 +10,6 @@ function preload() {
     fairy_1 = loadAnimation('data/2_WALK_000.png');
 }
 
-
 function setup() { 
   createCanvas(1200,800);
   smooth();

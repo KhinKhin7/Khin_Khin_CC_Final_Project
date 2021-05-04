@@ -3,6 +3,8 @@
 
 class Scene_1{
 	constructor(){
+
+		
 	}
 	
 	display(){

@@ -5,6 +5,7 @@ class Fairies{
 	constructor(){
 
 	}
+
 	
 	display(){
 
