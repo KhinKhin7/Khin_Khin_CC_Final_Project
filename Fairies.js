@@ -6,12 +6,12 @@ class Fairies{
 
 	}
 
-	
+
 	display(){
 
-		scale(0.5);
+		scale(0.75);
 	  	animation(fairy_1,500,500);
-
+	  	animation(fairy_2,1000,200);
 	}
 
 }
